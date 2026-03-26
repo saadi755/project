@@ -1,1 +1,0 @@
-# Auth Screen\nThis folder contains all screens related to authentication.
