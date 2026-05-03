@@ -9,7 +9,7 @@
 **BookMyCourt** is a full-stack web application that centralizes sports arena booking. Players can browse arenas by sport, check real-time slot availability, and make instant bookings. Arena owners get a dedicated dashboard to manage courts, update availability, and track their bookings. The platform eliminates scheduling conflicts, manual coordination, and lack of transparency common in traditional booking methods.
 
 **Live Demo:** _Coming soon_  
-**GitHub:** [BookMyCourt Repository](#)  
+**GitHub:** [https://github.com/saadi755/project](#)  
 **Jira Board:** [Project Tracker](#)
 
 ---
